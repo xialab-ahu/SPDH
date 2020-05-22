@@ -1,0 +1,6 @@
+[tools]
+Spider2_path = /data1/tools/SPIDER2_local/
+Netsurfp_path = /data1/YLS/SPDH/netsurfp-1.0/
+DISOPRED_path = /data1/YLS/SPDH/DISOPRED/
+run_local_blast = misc/run_local_blast.sh
+HSE_run1 = HSE/run1.sh
