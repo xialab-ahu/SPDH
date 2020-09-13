@@ -1,6 +1,35 @@
+
+                SPDH                
+
+SPDH
+├─conf	                    #configuration file
+├─datasets					#All data 
+│	├─train_sequence		#The sequence files used for the training set
+│	└─test_sequence			#The sequence files used for the test set
+├─feature					#AAindex feature
+├─model						#model data file
+├─outwhd					#output file
+└─src						#code folder
+
+[Publication Title]
+Predicting hot spot residues at protein-DNA binding interfaces based on sequence information
+******************************************************
+[Environment]
 This software needs to run on Linux
 A python2.7 environment is required
 ******************************************************
+[Data]
+	The data used before preprocessing is rawData.txt
+	
+	train_pos_label.csv	is the preprocessed training set data and labels  
+	test_pos_label.csv	is the preprocessed test set data and labels 
+	train_feature.csv	is the feature of the training set data
+	test_feature.csv	is the feature of the test set data
+	train_sequence/ 	is the sequence file used in the training set
+	test_sequence/		is the sequence file used in the test set
+	
+******************************************************
+[REQUIREMENTS]
 Need to download and install the following software
 
 SPIDER2
@@ -39,7 +68,7 @@ src/ is the code folder,  you can change it if you want.
 
 
 ******************************************************
-example:
+[example]
 run----->
 
 python main.py -i 1AAY_A.seq -s3 1aay.i1 -o outScore
