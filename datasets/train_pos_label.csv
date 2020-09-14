@@ -1,4 +1,4 @@
-PDBID,CHAIN,REF,POS,ALT,DDG,LABEL
+PDBID,CHAIN,REF,POS,ALT,¦¤¦¤G,LABEL
 1AIS,A,E,12,A,-1,non-hot spot
 1AIS,A,Q,103,A,-0.88,non-hot spot
 1AZ0,A,K,38,A,0.7,non-hot spot

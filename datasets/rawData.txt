@@ -1,4 +1,4 @@
-PDBID	CHAIN	Mutant	Temperature/C	kdWT   	kdmut	ddG	PMID
+PDBID	CHAIN	Mutant	Temperature/C	kdWT   	kdmut	ΔΔG	PMID
 1B3T	A	R469A	25	1.00E-09	3.00E-07	3.41	.
 1B3T	A	Y518A	25	1.00E-09	8.00E-08	2.62	.
 1B3T	A	R522A	25	1.00E-09	1.60E-06	4.4	.
