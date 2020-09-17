@@ -19,7 +19,6 @@ This software needs to run on Linux
 A python2.7 environment is required
 ******************************************************
 [Data]
-	The data used before preprocessing is rawData.txt.
 	Data comes from PrPDH. (http://bioinfo.ahu.edu.cn:8080/PrPDH/downloads/PrPDH_v1_benchmark.zip)
 	
 	train_pos_label.csv	is the preprocessed training set data and labels  
